@@ -158,6 +158,13 @@ xmlns:android="http://schemas.android.com/apk/res/android"
             android:action="android.intent.action.VIEW"
             android:data="https://forum.xda-developers.com/max-pro-m2/development/stable-msm-xtended-xp8-release-v16-july-t3950089" />
        </Preference>
+       <Preference
+            android:title="@string/device_18"
+            android:summary="@string/device18_description"
+            android:icon="@drawable/ic_devs_phone" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://forum.xda-developers.com/mi-a2-lite/development/stable-msm-xtended-xq-release-v6-0-t4063845" />
+       </Preference>
     </PreferenceCategory>
 </PreferenceScreen>
-

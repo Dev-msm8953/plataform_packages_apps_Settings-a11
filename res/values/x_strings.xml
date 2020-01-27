@@ -100,6 +100,8 @@
     <string name="device16_description">Pranav Kapoor aka pranavkapoor001</string>
     <string name="device_17">Asus Zenfone Max Pro M2 | X01BD</string>
     <string name="device17_description">Sonal Singh aka SonalSingh18</string>
+    <string name="device_18">Xiaomi Mi A2 Lite | Daisy</string>
+    <string name="device18_description">TogoFire</string>
     <string name="credits_to_these_teams">Credits Section</string>
     <string name="hail_to_teams"> Huge Thanks to These Teams</string>
     <string name="team_1">LineageOS | CyanogenMOD</string>
@@ -352,12 +354,12 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Locate the fingerprint sensor on the left side of your phone.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Locate the fingerprint sensor on the right side of your phone.</string>
 
-    <!-- Fingerprint location message - generic --> 
+    <!-- Fingerprint location message - generic -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Locate the fingerprint sensor on the front of your device.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Locate the fingerprint sensor on the left side of your device.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Locate the fingerprint sensor on the right side of your device.</string>
 
-    <!-- Fingerprint location message - tablet --> 
+    <!-- Fingerprint location message - tablet -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Locate the fingerprint sensor on the front of your tablet.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Locate the fingerprint sensor on the left side of your tablet.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Locate the fingerprint sensor on the right side of your tablet.</string>
@@ -396,7 +398,7 @@
     <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
 
     <!-- Navbar length -->
-    <string name="navbar_length">Gesture bar length</string> 
+    <string name="navbar_length">Gesture bar length</string>
     <string name="hidden_label">Hidden</string>
     <string name="long_label">Long</string>
 
@@ -558,5 +560,5 @@
     <string name="sb_height_medium">Medium</string>
     <string name="sb_height_large">Large</string>
     <string name="sb_height_extralarge">Extra Large</string>
-    
+
 </resources>
