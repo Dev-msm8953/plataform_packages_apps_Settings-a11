@@ -145,7 +145,7 @@
         <item>@string/action_flashlight</item>
         <item>@string/action_app_action</item>
         <item>@string/action_volume_panel</item>
-        <item>@string/action_screen_off</item> 
+        <item>@string/action_screen_off</item>
         <item>@string/action_screenshot</item>
         <item>@string/action_notifications</item>
         <item>@string/action_qs_panel</item>
@@ -156,11 +156,11 @@
         <item>@string/action_partial_screenshot</item>
     </string-array>
 
-    <string-array name="swipe_actions_values" translatable="false"> 
+    <string-array name="swipe_actions_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-        <item>3</item> 
+        <item>3</item>
         <item>4</item>
         <item>5</item>
         <item>6</item>
@@ -168,7 +168,7 @@
         <item>8</item>
         <item>9</item>
         <item>10</item>
-        <item>11</item> 
+        <item>11</item>
         <item>12</item>
         <item>13</item>
         <item>14</item>
@@ -261,5 +261,19 @@
         <item>3</item>
         <item>4</item>
     </string-array>
-    
+
+    <string-array name="legacy_wfd_video_mode_entries" translatable="false">
+          <item>@string/legacy_wfd_video_mode_720p_30fps</item>
+          <item>@string/legacy_wfd_video_mode_720p_60fps</item>
+          <item>@string/legacy_wfd_video_mode_1080p_30fps</item>
+          <item>@string/legacy_wfd_video_mode_1080p_60fps</item>
+    </string-array>
+
+    <string-array name="legacy_wfd_video_mode_values" translatable="false">
+          <item>5</item>
+          <item>6</item>
+          <item>7</item>
+          <item>8</item>
+    </string-array>
+
 </resources>
