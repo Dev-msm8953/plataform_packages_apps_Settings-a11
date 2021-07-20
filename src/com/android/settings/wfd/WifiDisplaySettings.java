@@ -71,7 +71,7 @@ import com.android.settingslib.TwoTargetPreference;
 import com.android.settingslib.search.Indexable;
 import com.android.settingslib.search.SearchIndexable;
 
-import com.msm.xtended.preferences.XUtils;
+import com.xtended.utils.XUtils;
 
 /**
  * The Settings screen for WifiDisplay configuration and connection management.
